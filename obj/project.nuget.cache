@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "intEX3+Y0JtpAy8ke6KDY1iIJXnAyk6rHxf8Ed3i/rThqr85TkIzVq1VJmnp/9OogiW0dyDkWULThRBYpVeIrA==",
+  "success": true,
+  "projectFilePath": "/home/harryji/test/dotnetproject/dotnetproject.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.app.runtime.win-x64/6.0.1/microsoft.netcore.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/6.0.1/microsoft.aspnetcore.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.host.win-x64/6.0.1/microsoft.netcore.app.host.win-x64.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
